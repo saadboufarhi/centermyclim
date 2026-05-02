@@ -188,7 +188,7 @@ h6 {
 }
 
 .hero-logo-large {
-    max-width: 380px;
+    max-width: 200px;
     height: auto;
     margin-bottom: 1.5rem;
     display: block;
@@ -200,7 +200,7 @@ h6 {
     .hero-logo-large {
         margin-left: auto;
         margin-right: auto;
-        max-width: 280px;
+        max-width: 180px;
     }
 }
 
@@ -718,7 +718,7 @@ h6 {
 }
 
 .cta-parallax-section .logo-parallax {
-    max-width: 280px;
+    max-width: 380px;
     height: auto;
     margin-bottom: 2rem;
     display: block;
